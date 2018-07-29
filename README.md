@@ -1,11 +1,10 @@
 # ecomm-ui
-<<<<<<< Updated upstream
+m
 Testing stuff for chris
-=======
-<<<<<<< HEAD
+=======D
 ecomm ui for fun
 
 jeremy branch
 =======
 Testing stuff for chr
->>>>>>> Stashed changes
+
